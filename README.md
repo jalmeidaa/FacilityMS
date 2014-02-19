@@ -7,7 +7,7 @@ Julius Almeida
 
 Gehendra Karmacharya​
 
-- We are using WAMP Server for MySQL Server.
+- We are using MAMP(For mac)/WAMP(For Windows) Server for MySQL Server.
 - Database name: cs_473
 - user: root
 - password: root
